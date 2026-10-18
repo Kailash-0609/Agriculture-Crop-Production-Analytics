@@ -44,6 +44,9 @@ How to View the Project
 Author
 
 Kailash Kumar M.
+## Dashboard Preview
+
+![Agriculture Crop Production Analytics Dashboard](dashboard-screenshot.png)
 
 Project Domain
 
