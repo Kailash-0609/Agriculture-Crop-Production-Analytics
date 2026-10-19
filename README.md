@@ -44,10 +44,13 @@ How to View the Project
 Author
 
 Kailash Kumar M.
-## Dashboard Preview
-
-![Agriculture Crop Production Analytics Dashboard](dashboard-screenshot.png)
 
 Project Domain
 
 Data Analytics | Business Intelligence
+## Dashboard Preview
+
+![Agriculture Crop Production Analytics Dashboard](dashboard-screenshot.png)
+![Agriculture Crop Production Analytics Dashboard](dashboard-screenshot1.png)
+
+
